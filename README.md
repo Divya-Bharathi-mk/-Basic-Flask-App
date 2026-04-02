@@ -31,4 +31,4 @@ Built a multi-page web application using Python and Flask, implementing template
    http://127.0.0.1:5000/
 
 ## Output
-<img src="assets/screenshot.png" width="700">
+<img src="blob/main/assets/screenshot.jpg" width="700">
